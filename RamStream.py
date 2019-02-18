@@ -18,6 +18,7 @@ import datetime
 import os
 
 # login configurations
+# outdated
 options = {
     'webdav_hostname': "https://dav.box.com/dav",
     'webdav_login':    "yuxuanc5@illinois.edu",
